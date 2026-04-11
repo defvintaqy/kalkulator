@@ -1,4 +1,6 @@
-﻿int a = 10, b = 11;
+//25.11.6576
+
+int a = 10, b = 11;
 
 static int Penjumlahan (int a, int b)
 {
